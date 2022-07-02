@@ -1,10 +1,7 @@
 
 # Module-5 Coding Assignment
 
-🔶 <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers">HTML, CSS, and Javascript for Web Developers</a>
+Coursera course: HTML, CSS, and Javascript for Web Developers
 
-<img src="https://github.com/ahmedabdmouleh8/Module-five/blob/main/Module%205.PNG">
-<img src="https://github.com/ahmedabdmouleh8/Module-five/blob/main/Module%205..PNG">
-
-
+# To see the output [CLICK HERE](https://ahmedabdmouleh8.github.io/Module-five/index.html)
 
